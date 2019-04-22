@@ -1,0 +1,33 @@
+
+Ssquid:UnusedPrivateMethod,")Remove this unused private "show" method.(Öœ“úÿÿÿÿ
+Wsquid:UnusedPrivateMethod0"-Remove this unused private "showDeck" method.(ãü§˜ûÿÿÿÿ
+Nsquid:UnusedPrivateMethod8")Remove this unused private "save" method.(¦åäî
+Ysquid:UnusedPrivateMethod<"/Remove this unused private "createDeck" method.(€¦Ìñûÿÿÿÿ
+Ysquid:UnusedPrivateMethod@"/Remove this unused private "deleteDeck" method.(¥˜åÔøÿÿÿÿ
+Psquid:UnusedPrivateMethodH"+Remove this unused private "remove" method.(‹Ü›¥
+[squid:UnusedPrivateMethodL"6Remove this unused private "checkValidateDeck" method.(ƒµç›
+Nsquid:UnusedPrivateMethodP")Remove this unused private "help" method.(Æ¯‡
+bsquid:CommentedOutCodeLine("<This block of commented-out lines of code should be removed.(öšÉô
+gsquid:CommentedOutCodeLine*"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ
+gsquid:CommentedOutCodeLine4"<This block of commented-out lines of code should be removed.(Å¹¯êüÿÿÿÿ
+gsquid:CommentedOutCodeLine6"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ
+‡squid:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(ñËÇ³
+Œsquid:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(èĞ¥×øÿÿÿÿ
+Gsquid:S11720"+Remove this unused method parameter "name".(ãü§˜ûÿÿÿÿ
+Gsquid:S1172<"+Remove this unused method parameter "name".(€¦Ìñûÿÿÿÿ
+Gsquid:S1172@"+Remove this unused method parameter "name".(¥˜åÔøÿÿÿÿ
+=squid:S1172D"&Remove these unused method parameters.(İ±Œ§
+=squid:S1172H"&Remove these unused method parameters.(‹Ü›¥
+Bsquid:S1172L"+Remove this unused method parameter "name".(ƒµç›
+˜squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(÷­Ãí
+˜squid:S1186$"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ø¼¿Ø
+squid:S1186,"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Öœ“úÿÿÿÿ
+squid:S11860"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ãü§˜ûÿÿÿÿ
+˜squid:S11868"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¦åäî
+squid:S1186<"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(€¦Ìñûÿÿÿÿ
+squid:S1186@"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¥˜åÔøÿÿÿÿ
+˜squid:S1186D"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(İ±Œ§
+˜squid:S1186H"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(‹Ü›¥
+˜squid:S1186L"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ƒµç›
+˜squid:S1186P"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Æ¯‡
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(á–Ì“
